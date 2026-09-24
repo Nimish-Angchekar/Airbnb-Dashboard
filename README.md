@@ -1,2 +1,7 @@
-# Airbnb-Dashboard
-An interactive Power BI dashboard built to analyze Airbnb listings, pricing, room types, host performance, availability, and guest ratings. The project uses DAX, KPIs, slicers, treemaps, and scatter plots to uncover marketplace trends and provide actionable insights into Airbnb performance.
+# Power BI Dashboard
+
+The Power BI dashboard was created to analyze Airbnb listings, pricing, host performance, availability, and guest reviews.
+
+Due to the large size of the original **.pbix file**, it could not be uploaded directly to GitHub. Dashboard screenshots are included in this folder for reference.
+
+**[Download/View the Power BI Dashboard]([YOUR_GOOGLE_DRIVE_LINK](https://drive.google.com/drive/folders/14q7WTR3FerubIqf4F4Sgi71Q8MDBpVQA?usp=sharing))**
